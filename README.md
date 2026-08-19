@@ -43,6 +43,6 @@ Não execute os scripts sem autorização para usar os dados e sem revisar os ca
 
 ## Referência ao trabalho e versionamento
 
-- Repositório: `<URL>`
-- Commit: `<SHA completo>`
-- Tag: `<tag associada ao trabalho>`
+- Repositório: `https://github.com/ClaudiaMayumiM/transplante-renal-mortalidade`
+- Commit: `a35b7d37d1fb9338bd3cdb6d312ff652749631f9`
+- Tag: `tcc-submission-2026`
