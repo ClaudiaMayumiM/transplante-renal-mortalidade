@@ -1,0 +1,39 @@
+administrative_censor_date: "2015-06-30"
+binary_horizons_days:
+  1y: 365
+  2y: 730
+  5y_viability: 1825
+km_reporting_days:
+  1y: 365
+  2y: 730
+  3y: 1096
+  4y: 1461
+  5y: 1826
+landmark_day: 7
+cv:
+  folds: 3
+  repeats: 100
+  random_state: 42
+bootstrap:
+  attempts: 1000
+  stratified: false
+  replacement: true
+ridge:
+  penalty: l2
+  C: 1.0
+  solver: lbfgs
+  max_iter: 5000
+tree_2y:
+  max_depth: 2
+  min_samples_leaf: 10
+  min_samples_split: 20
+  class_weight: balanced
+  random_state: 42
+tree_2y_calibration_reporting:
+  intercept_summary: median
+  intercept_value: -1.8061990576742795
+  slope_summary: median
+  slope_value: 0.09176617740118166
+  warning_repetitions: 41
+  total_repetitions: 100
+

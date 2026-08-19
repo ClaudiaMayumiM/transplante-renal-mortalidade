@@ -1,0 +1,13 @@
+"analysis","stratum","horizon_days","horizon_years","initial_n","survival","lower_95","upper_95","std_error","n_risk","cumulative_events","cumulative_censors","events_at_horizon","censors_at_horizon"
+"km_idade","Categoria etária de menor idade",0,0,104,1,1,1,0,104,0,0,0,0
+"km_idade","Categoria etária de menor idade",365,0.999315537303217,104,0.9426947915258,0.867475570096857,0.975801908917929,0.0249565171022852,77,5,22,0,0
+"km_idade","Categoria etária de menor idade",730,1.99863107460643,104,0.926716913703329,0.842529227608209,0.96676049091613,0.0292037574609992,58,6,40,0,0
+"km_idade","Categoria etária de menor idade",1096,3.00068446269678,104,0.910739035880858,0.819686261550258,0.956985907487022,0.0327810160337323,39,7,59,0,1
+"km_idade","Categoria etária de menor idade",1461,4,104,0.910739035880858,0.819686261550258,0.956985907487022,0.0327810160337323,31,7,66,0,0
+"km_idade","Categoria etária de menor idade",1826,4.99931553730322,104,0.910739035880858,0.819686261550258,0.956985907487022,0.0327810160337323,8,7,90,0,1
+"km_idade","Categoria etária de maior idade, rotulada como '>40 anos' no dataset original",0,0,94,1,1,1,0,94,0,0,0,0
+"km_idade","Categoria etária de maior idade, rotulada como '>40 anos' no dataset original",365,0.999315537303217,94,0.861800939989142,0.769078190200648,0.919201436745252,0.0371686335823517,63,12,19,0,0
+"km_idade","Categoria etária de maior idade, rotulada como '>40 anos' no dataset original",730,1.99863107460643,94,0.829245380602524,0.72626528418182,0.896181188160344,0.042416760918483,41,14,39,0,0
+"km_idade","Categoria etária de maior idade, rotulada como '>40 anos' no dataset original",1096,3.00068446269678,94,0.809019883514658,0.69881811632016,0.882202713927922,0.0459519352393985,24,15,55,0,0
+"km_idade","Categoria etária de maior idade, rotulada como '>40 anos' no dataset original",1461,4,94,0.73654518561647,0.585062337755939,0.839930373257309,0.0645028486713593,11,17,66,0,0
+"km_idade","Categoria etária de maior idade, rotulada como '>40 anos' no dataset original",1826,4.99931553730322,94,0.73654518561647,0.585062337755939,0.839930373257309,0.0645028486713593,1,17,76,0,0
