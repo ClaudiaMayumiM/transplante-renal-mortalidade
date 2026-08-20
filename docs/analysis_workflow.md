@@ -1,6 +1,6 @@
 # Fluxo das análises
 
-Este documento localiza o código congelado; não prescreve uma nova execução.
+Este documento descreve a organização do código e a relação entre as etapas analíticas, sem substituir as especificações metodológicas do trabalho nem formar, por si só, um roteiro de reprodução integral.
 
 ## 1. Preparação e desfechos
 
