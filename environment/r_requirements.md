@@ -1,13 +1,13 @@
 # R requirements
 
-| Component | Historical evidence |
+| Componente | Versão |
 |---|---|
 | R | 4.3.1 |
 | survival | 3.5.5 |
 | svglite | 2.2.1 |
-| ggplot2 | version not pinned in historical evidence |
-| gridExtra | version not pinned in historical evidence |
-| ragg | version not pinned in historical evidence |
-| digest | version not pinned in historical evidence |
+| ggplot2 |  |
+| gridExtra |  |
+| ragg |  |
+| digest |  |
 
-Base packages `grid` and `grDevices` are also used. The repository does not install packages automatically.
+Os pacotes básicos `grid` e `grDevices` também são usados. O repositório não instala pacotes de forma automática.
