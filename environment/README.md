@@ -1,7 +1,5 @@
 # Ambiente computacional congelado
 
-O manuscrito registra:
-
 | Componente | Versão |
 |---|---|
 | Python | 3.12.7 |
