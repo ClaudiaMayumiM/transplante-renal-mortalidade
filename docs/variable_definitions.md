@@ -26,12 +26,12 @@ O intercepto de calibração (`calibration-in-the-large`) avalia se, globalmente
 
 `logit(P(Y=1)) = alpha + offset(logit(p))`
 
-Em termos gerais, intercepto positivo indica tendência de subestimação global do risco, enquanto intercepto negativo indica tendência de superestimação global do risco.
+Intercepto positivo indica tendência de subestimação global do risco, enquanto intercepto negativo indica tendência de superestimação global do risco.
 
 A inclinação de calibração avalia se a dispersão das probabilidades previstas é compatível com a observada. A estimativa corresponde a:
 
 `logit(P(Y=1)) = alpha + beta * logit(p)`
 
-Valores próximos de um indicam dispersão aproximadamente adequada. Em termos gerais, valores menores que um indicam previsões excessivamente extremas; valores maiores que um indicam previsões pouco extremas ou excessivamente concentradas.
+Valores próximos de um indicam dispersão aproximadamente adequada. Valores menores que um indicam previsões excessivamente extremas; valores maiores que um indicam previsões pouco extremas ou excessivamente concentradas.
 
-As duas quantidades são estimadas separadamente e têm finalidade diagnóstica, especialmente diante do número reduzido de eventos. Elas não constituem critérios de validação externa ou de utilidade clínica.
+As duas quantidades são estimadas separadamente e têm finalidade diagnóstica, especialmente diante do número reduzido de eventos. Elas não representam critérios de validação externa ou de utilidade clínica.
